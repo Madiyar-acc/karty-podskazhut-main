@@ -143,11 +143,9 @@ a {
 
 }
 
-.content__card-title {
-    max-inline-size: 80%;
-}
 .colored-text {
     position: relative;
+    white-space: nowrap;
 }
 .colored-text::after {
     content: "";
